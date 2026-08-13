@@ -30,7 +30,7 @@ Outlier's paged inference engine streams Mixture-of-Experts weights from SSD, ru
 ## Why offline
 
 - **Private** — nothing leaves your Mac. Not even the question.
-- **Yours** — buy it once, run it forever. Lifetime licenses from $99.
+- **Yours** — buy it once, run it forever. Founders Lifetime is $200 one-time.
 - **Unlimited** — no usage caps, no rate limits, no "come back at 7pm."
 - **Independent** — no data center required. Runs on the computer you already own.
 
