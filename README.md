@@ -42,7 +42,7 @@ Outlier's paged inference engine streams Mixture-of-Experts weights from SSD, ru
 | 24–32 GB | + Core · Code · Vision |
 | 64 GB+ | + Plus (397B MoE) |
 
-Apple Silicon, macOS 12+. Verified benchmarks we publish: Nano HumanEval 81.1% (full 164-problem set, shipped model) · Quick MMLU 0.793 (n=300). Full provenance-documented benchmark suite in progress.
+Apple Silicon, macOS 26+. Verified benchmarks we publish: Nano HumanEval 81.1% (full 164-problem set, shipped model) · Quick MMLU 0.793 (n=300). Full provenance-documented benchmark suite in progress.
 
 ## Status
 
