@@ -4,11 +4,9 @@
 
 ### Own your AI. Don't rent it.
 
-**A private, offline alternative to cloud AI — frontier-class models, coding agent, deep research, vision, and memory. One signed Mac app. No subscription required. No usage caps. Nothing leaves your machine.**
+**A private, offline alternative to cloud AI: frontier-class models, a coding agent, deep research, vision and memory in one signed Mac app. One price, no subscription, no usage caps. Your chats and files stay on your Mac.**
 
 [Download for Mac](https://outlier.host) · [Website](https://outlier.host) · [Discord](https://discord.gg/Hapennmdn9)
-
-<!-- TODO: embed 397B-wifi-off demo GIF here when recorded: ![A model bigger than your memory](assets/397b-demo.gif) -->
 
 </div>
 
@@ -16,12 +14,12 @@
 
 ## What it does
 
-Outlier runs frontier-class AI entirely on your Mac — no cloud, no account, no meter.
+Outlier runs AI models entirely on your Mac, with no meter. Nano and Lite are free and need no account; Pro unlocks every model and feature for $49 once.
 
 - **Chat** with models sized to your hardware, from a 4B that flies on a MacBook Air to a 397B-parameter Mixture-of-Experts on a 64GB Mac
-- **Coding agent** — plan → diff → patch → test, fully offline
-- **Deep research** — multi-source research runs without your queries leaving the machine
-- **Computer use, vision, voice, memory, MCP** — the full stack in one signed app
+- **Coding agent** (Pro): plan, edit, run the tests, fully offline
+- **Deep research** (Pro): multi-source research when you turn web search on
+- **Computer use, vision, voice, memory, MCP** (Pro): the full stack in one signed app
 
 ## A model bigger than your memory
 
@@ -29,24 +27,25 @@ Outlier's paged inference engine streams Mixture-of-Experts weights from SSD, ru
 
 ## Why offline
 
-- **Private** — nothing leaves your Mac. Not even the question.
-- **Yours** — buy it once, run it forever. Founders Lifetime is $249 one-time.
-- **Unlimited** — no usage caps, no rate limits, no "come back at 7pm."
-- **Independent** — no data center required. Runs on the computer you already own.
+- **Private**: your chats, files and prompts never leave your Mac. The app goes online only to check for updates, the price and a Pro licence key, and to search the web when you turn that on.
+- **Yours**: buy it once, run it for the lifetime of the product. Pro is $49 once (the Black Friday price is $24.50 until 30 November), on up to 3 Macs at a time.
+- **Unlimited**: no usage caps, no rate limits, no "come back at 7pm."
+- **Independent**: no data center required. Runs on the computer you already own.
 
 ## Hardware
 
 | Your Mac | What runs |
 |---|---|
-| 16 GB | Nano (4B) · Lite (9B) · Quick |
-| 24–32 GB | + Core · Code · Vision |
-| 64 GB+ | + Plus (397B MoE) |
+| 8 GB | Nano (4B) |
+| 16 GB | + Lite (9B) · Quick (26B MoE) |
+| 24–32 GB | + Core (27B) · Vision 3.8 (27B, reads images) |
+| 64 GB+ | + Plus (397B MoE; 128 GB recommended) |
 
-Apple Silicon, macOS 26+. Verified benchmarks we publish: Nano HumanEval 81.1% (full 164-problem set, shipped model) · Quick MMLU 0.793 (n=300). Full provenance-documented benchmark suite in progress.
+Apple Silicon (M1 or newer), macOS 15 or later. Benchmarks the app itself quotes: Core MMLU 89.5% and HumanEval 95.1% (all 164 problems), Quick MMLU 81.0% (n=200). Method and raw data: [outlier.host/data](https://outlier.host/data/).
 
 ## Status
 
-Honest beta from a solo founder, shipping near-daily. The app is early; the mission is not. 14-day money-back on all paid tiers. Bugs → [Issues](https://github.com/Outlier-host/outlier-app/issues).
+Honest beta from a solo founder, shipping near-daily. The app is early; the mission is not. 30-day refund, no questions asked: email matt@outlier.host with your order number. Bugs → [Issues](https://github.com/Outlier-host/outlier-app/issues).
 
 ## FAQ
 
@@ -54,7 +53,7 @@ Honest beta from a solo founder, shipping near-daily. The app is early; the miss
 
 **Is it as smart as Claude?** On the hardest frontier tasks, no — and we don't claim it. For most daily work it answers privately, offline, with no meter running. The pitch isn't "smarter" — it's "the subscription you stop needing."
 
-**What's open source here?** This repo is the product showcase. The app ships as a signed DMG from [outlier.host](https://outlier.host); the inference engine is proprietary (provisional patents filed).
+**What's open source here?** This repo is the product showcase. The app ships as a signed DMG from [outlier.host](https://outlier.host); the app and its inference engine are proprietary (provisional patents filed). The model weights are on Hugging Face at [Outlier-Ai](https://huggingface.co/Outlier-Ai).
 
 ---
 
