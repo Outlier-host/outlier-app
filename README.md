@@ -37,8 +37,8 @@ Outlier's paged inference engine streams Mixture-of-Experts weights from SSD, ru
 | Your Mac | What runs |
 |---|---|
 | 8 GB | Nano (4B) |
-| 16 GB | + Lite (9B) · Quick (26B MoE) |
-| 24–32 GB | + Core (27B) · Vision 3.8 (27B, reads images) |
+| 16 GB | + Lite (9B); Quick (26B MoE) loads but wants 24 GB |
+| 24–32 GB | + Quick in full · Core (27B) · Vision 3.8 (27B, reads images) |
 | 64 GB+ | + Plus (397B MoE; 128 GB recommended) |
 
 Apple Silicon (M1 or newer), macOS 15 or later. Benchmarks the app itself quotes: Core MMLU 89.5% and HumanEval 95.1% (all 164 problems), Quick MMLU 81.0% (n=200). Method and raw data: [outlier.host/data](https://outlier.host/data/).
