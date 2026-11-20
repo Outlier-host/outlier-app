@@ -28,7 +28,7 @@ Outlier's paged inference engine streams Mixture-of-Experts weights from SSD, ru
 ## Why offline
 
 - **Private**: your chats, files and prompts never leave your Mac. The app goes online only to check for updates, the price and a Pro licence key, and to search the web when you turn that on.
-- **Yours**: buy it once, run it for the lifetime of the product. Pro is paid once, on up to 3 Macs at a time. Black Friday sale: $16.99 once, 31% off our November price of $24.50, through December 2. Then $39.
+- **Yours**: buy it once, run it for the lifetime of the product. Pro is paid once, on up to 3 Macs at a time. Black Friday sale: $16.99 once through December 2. Then $39.
 - **Unlimited**: no usage caps, no rate limits, no "come back at 7pm."
 - **Independent**: no data center required. Runs on the computer you already own.
 
