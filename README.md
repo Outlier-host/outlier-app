@@ -14,7 +14,7 @@
 
 ## What it does
 
-Outlier runs AI models entirely on your Mac, with no meter. Nano and Lite are free and need no account; Pro unlocks every model and feature for $49 once.
+Outlier runs AI models entirely on your Mac, with no meter. Nano and Lite are free and need no account; Pro unlocks every model and feature, paid once: $16.99 in the Black Friday sale through December 2, then $39.
 
 - **Chat** with models sized to your hardware, from a 4B that flies on a MacBook Air to a 397B-parameter Mixture-of-Experts on a 64GB Mac
 - **Coding agent** (Pro): plan, edit, run the tests, fully offline
@@ -28,7 +28,7 @@ Outlier's paged inference engine streams Mixture-of-Experts weights from SSD, ru
 ## Why offline
 
 - **Private**: your chats, files and prompts never leave your Mac. The app goes online only to check for updates, the price and a Pro licence key, and to search the web when you turn that on.
-- **Yours**: buy it once, run it for the lifetime of the product. Pro is $49 once (the Black Friday price is $24.50 until 30 November), on up to 3 Macs at a time.
+- **Yours**: buy it once, run it for the lifetime of the product. Pro is paid once, on up to 3 Macs at a time. Black Friday sale: $16.99 once, 31% off our November price of $24.50, through December 2. Then $39.
 - **Unlimited**: no usage caps, no rate limits, no "come back at 7pm."
 - **Independent**: no data center required. Runs on the computer you already own.
 
